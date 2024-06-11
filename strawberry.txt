@@ -1,0 +1,48 @@
+<html>
+<head>
+    <title>WEBSITE</title>
+    <link rel="stylesheet" href="css.css">
+    <style>
+        body{
+            background-color: #dda5eb;
+        }
+    </style>
+</head>
+<body> 
+	<div class="background">
+ 	<h1><center>PURPLE ARCHIVE</center></h1>
+         <div class="header">
+      
+            <a href="WEBSITE.html">HOME</a>
+            <hr>
+            <a href="about.html">ABOUT</a></li>
+            <hr>
+            <a href="menu.html">MENU</a></li>
+            <hr>
+            <a href="contactus.html">CONTACT US</a></li>
+            <hr>
+      
+    </div>
+            <hr>
+   
+                    <div class="menu">
+                        <h2>STRAWBERRY</h2>
+                       
+                            <a href="strawberry.html"class="active">STRAWBERRY</a> 
+                            <a href="CHOCOLATE">CHOCOLATE</a>
+                        <hr>
+                    </div>
+                   
+                    <img class="scake" src="images/scake1.jpg" width="200" height="200">
+                    <img class="smacaron" src="smacaron.jpg" width="200" height="200">
+                    <img class="sice" src="SIcecream.jpg" width="200" height="200">
+                    <img class="ssand" src="ssandwich.jpg" width="200" height="200">
+    <footer>
+      
+      <br>
+      <br>
+      <br>
+        <p> <center>&copy; PURPLE ARCHIVE</center></p>
+    </footer>
+</body>
+</html>
