@@ -88,19 +88,25 @@ div.background{
     border: #ffc0cb;
     border-width: 100%;
   }
-div.image{
+  div.image{
     width: 80%;
     height: 78%;
     float: right;
-}
-div.image1{
+  }
+  div.image1{
     width: 55%;
     height: 78%;
     float: right;
-}
-div.footer{
+  }
+  div.footer{
     height: 20%;
     width: 100%;
     background-color: rgb(226, 141, 198);
     float: right;
-}
+  }
+  div.content{
+    background-color: rgb(248, 116, 204);
+    position: absolute;
+    top: 50%;
+    right: 40%;
+  }
